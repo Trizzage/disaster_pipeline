@@ -7,8 +7,12 @@ This repo is designed to contain a pipeline for categorizing messages and tweets
 Packages Used
 
 Python 3.7
-Data science libraries: Numpy, pandas, scikit-learn
+
+Data science libraries: 
+Numpy, pandas, scikit-learn
+
 Natural language processing library: NLTK
+
 SQL library: SQLAlchemy
 
 
